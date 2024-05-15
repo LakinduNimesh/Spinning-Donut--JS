@@ -3,6 +3,8 @@
 
 This repository contains a JavaScript implementation of a spinning ASCII donut. The animation is rendered in real-time using ASCII characters to create a visually striking 3D donut effect in the web browser.
 
+![Screenshot 2024-05-15 131904](https://github.com/LakinduNimesh/Spinning-Donut--JS/assets/149768006/ac4ad461-6822-4d05-b406-21a0f05194e7)
+
 ## How to Run
 
 1. **Clone the Repository**
